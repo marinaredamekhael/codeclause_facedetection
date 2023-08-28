@@ -23,7 +23,7 @@ This repository contains code for training and evaluating the YOLOv8 model on a 
     - Set your runtime type to GPU for faster computation through `Runtime > Change runtime type`.
 
 2. *Kaggle Dataset Download*:
-         Download your desired dataset from [kaggel]( https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection) You can either:
+         Download your desired dataset from [kaggle]( https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection) You can either:
     - Upload it directly to Google Colab using the upload button in the sidebar.
     - Save the dataset to Google Drive and access it from Colab using `drive.mount('/content/drive')`.
 
